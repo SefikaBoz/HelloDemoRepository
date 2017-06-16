@@ -1,0 +1,6 @@
+c:\users\sefika\documents\visual studio 2015\Projects\HelloDemo\HelloDemo\bin\Debug\HelloDemo.exe.config
+c:\users\sefika\documents\visual studio 2015\Projects\HelloDemo\HelloDemo\bin\Debug\HelloDemo.exe
+c:\users\sefika\documents\visual studio 2015\Projects\HelloDemo\HelloDemo\bin\Debug\HelloDemo.pdb
+c:\users\sefika\documents\visual studio 2015\Projects\HelloDemo\HelloDemo\obj\Debug\HelloDemo.csprojResolveAssemblyReference.cache
+c:\users\sefika\documents\visual studio 2015\Projects\HelloDemo\HelloDemo\obj\Debug\HelloDemo.exe
+c:\users\sefika\documents\visual studio 2015\Projects\HelloDemo\HelloDemo\obj\Debug\HelloDemo.pdb
